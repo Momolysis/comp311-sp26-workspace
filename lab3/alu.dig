@@ -686,25 +686,25 @@
           <string>cmp</string>
         </entry>
       </elementAttributes>
-      <pos x="980" y="840"/>
+      <pos x="980" y="900"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
       <elementAttributes>
         <entry>
           <string>Input Splitting</string>
-          <string>31,1</string>
+          <string>1,31</string>
         </entry>
         <entry>
           <string>splitterSpreading</string>
-          <int>3</int>
+          <int>4</int>
         </entry>
         <entry>
           <string>Output Splitting</string>
           <string>32</string>
         </entry>
       </elementAttributes>
-      <pos x="940" y="840"/>
+      <pos x="940" y="900"/>
     </visualElement>
     <visualElement>
       <elementName>Const</elementName>
@@ -718,7 +718,7 @@
           <int>31</int>
         </entry>
       </elementAttributes>
-      <pos x="920" y="840"/>
+      <pos x="920" y="980"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -761,12 +761,8 @@
       <p2 x="940" y="900"/>
     </wire>
     <wire>
-      <p1 x="960" y="840"/>
-      <p2 x="980" y="840"/>
-    </wire>
-    <wire>
-      <p1 x="920" y="840"/>
-      <p2 x="940" y="840"/>
+      <p1 x="960" y="900"/>
+      <p2 x="980" y="900"/>
     </wire>
     <wire>
       <p1 x="800" y="520"/>
@@ -811,6 +807,10 @@
     <wire>
       <p1 x="800" y="880"/>
       <p2 x="820" y="880"/>
+    </wire>
+    <wire>
+      <p1 x="920" y="980"/>
+      <p2 x="940" y="980"/>
     </wire>
     <wire>
       <p1 x="380" y="500"/>
